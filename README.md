@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-ss&layout=compact&theme=dark" />
 </div>
 
-<hr style="margin-top: 2rem" />
+##
 
 ### Technologies
 
@@ -25,7 +25,7 @@
   <img align="center" height="30" width="40" alt="NextJS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
 </div>
 
-<hr style="margin-top: 2rem" />
+##
 
 ### Contact Me
 
@@ -37,6 +37,8 @@
     <img alt="Gmail Image" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulo-ss/Paulo-ss/output/github-contribution-grid-snake-dark.svg">
