@@ -23,6 +23,7 @@
   <img align="center" height="30" width="40" alt="NestJS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" height="30" width="40" alt="React Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" alt="NextJS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />     
+  <img align="center" height="30" width="40" alt="TailwindCSS Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
 </div>
 
 ##
